@@ -1,0 +1,1 @@
+Definition ->A design pattern is a documented solution that has been applied successfully in multiple environments to solve a problem that repeatedly occurs in a specific set of situations.
